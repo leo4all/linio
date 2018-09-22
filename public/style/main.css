@@ -1,0 +1,6 @@
+#resultsPanel{
+    overflow-y:scroll;
+    overflow-x:hidden;
+    height:400px;
+    background:#f3f5f6;
+}
