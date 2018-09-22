@@ -27,6 +27,7 @@ link to us, or just send us a zip file.
     $ git clone https://github.com/leo4all/linio.git
     $ cd linio
     $ composer install
+    $ composer dump-autoload -o
 
 
 ---
